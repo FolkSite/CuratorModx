@@ -1,5 +1,5 @@
 <?php
-namespace KRS\AdminSystem\Controller;
+namespace Indeximstudio\CuratorModx;
 
 /**
  * ХРАНИТЕЛЬ MODX
@@ -21,7 +21,7 @@ class CuratorModx
     /**
      * @param $modx \DocumentParser
      */
-    final public function setModx($modx)
+    final public static function setModx($modx)
     {
         self::$modx = $modx;
     }

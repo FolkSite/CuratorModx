@@ -1,0 +1,14 @@
+{
+    "name": "indeximstudio/curator-modx",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vadim Kotsyuruba",
+            "email": "vkfoxcoonn@yandex.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "Indeximstudio\\CuratorModx" : ""
+    }
+}
