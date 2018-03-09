@@ -9,6 +9,8 @@
     ],
     "require": {},
     "autoload": {
-        "Indeximstudio\\CuratorModx" : ""
+        "psr-4": {
+            "Indeximstudio\\CuratorModx" : ""
+        }
     }
 }
